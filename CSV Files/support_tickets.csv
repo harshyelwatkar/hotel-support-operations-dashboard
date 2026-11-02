@@ -1,0 +1,9 @@
+ticket_id,hotel_name,issue_category,issue_description,priority,status,created_at,resolved_at,sla_hours
+1,"Hotel Sunshine","Reservation Sync","New reservations are not syncing with the hotel system",High,Open,"2026-10-27 09:30:00",NULL,8
+2,"Grand Palace","Payment Failure","Guest payment was deducted but booking shows unpaid",Critical,Open,"2026-10-27 10:15:00",NULL,4
+3,"Hotel Royal","Report Mismatch","Daily revenue report shows incorrect totals",Medium,Resolved,"2026-10-28 11:00:00","2026-10-28 15:30:00",24
+4,"City Inn","API Timeout","Reservation API is taking too long to respond",High,Pending,"2026-10-29 12:20:00",NULL,8
+5,"Lake View Hotel","Login Issue","Hotel staff members are unable to log in",Low,Resolved,"2026-10-29 14:00:00","2026-10-29 15:00:00",24
+6,"Hotel Paradise","Reservation Sync","Updated booking details are not reflecting",Critical,Pending,"2026-10-30 09:45:00",NULL,4
+7,"Green Valley","Payment Failure","Payment confirmation is missing from the booking record",High,Resolved,"2026-10-30 11:30:00","2026-10-30 14:00:00",8
+8,"Hotel Comfort","Report Mismatch","Occupancy report displays incorrect room counts",Medium,Open,"2026-10-31 10:00:00",NULL,24
