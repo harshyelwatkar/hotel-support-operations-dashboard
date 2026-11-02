@@ -99,7 +99,7 @@ The Excel dashboard provides a consolidated view of support operations and API p
 
 ### Dashboard Preview
 
-![Support Operations Dashboard](images/Dashboard_Preview,png)
+![Support Operations Dashboard](/images/Dashboard_Preview,png)
 
 ### Key Performance Indicators
 
