@@ -178,7 +178,7 @@ These observations demonstrate how operational data can help support teams ident
 ## Repository Structure
 
 ```text
-support-operations-api-performance-dashboard/
+hotel-support-operations-dashboard/
 │
 ├── README.md
 │
@@ -190,7 +190,7 @@ support-operations-api-performance-dashboard/
 │   ├── 03_insert_sample_data.sql
 │   └── 04_sql_analysis.sql
 │
-└── screenshots/
+└── images/
     ├── Dashboard_Preview.png
 ```
 
