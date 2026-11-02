@@ -14,6 +14,10 @@ This project simulates a support operations environment using sample support tic
 
 The objective is to demonstrate how database querying and operational reporting can support incident investigation, troubleshooting, and data-driven decision-making.
 
+### Dashboard Preview
+
+![Support Operations Dashboard](images/Dashboard_Preview.png)
+
 ## Business & Technical Objectives
 
 - Monitor support tickets across different statuses, priorities, issue categories, and hotels.
@@ -96,10 +100,6 @@ The relationship between the two tables enables investigation of API failures as
 ## Interactive Operations Dashboard
 
 The Excel dashboard provides a consolidated view of support operations and API performance.
-
-### Dashboard Preview
-
-![Support Operations Dashboard](images/Dashboard_Preview.png)
 
 ### Key Performance Indicators
 
